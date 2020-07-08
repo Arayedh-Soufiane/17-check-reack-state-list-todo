@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  font-size: 25px;
+
+  margin:  10% auto;
+  width: 70%;
+}  
+
+.cltete {
+  font-size: 25px;
+  display: flex;
+  background: cyan;
+  justify-content: space-between;
+}
+.cllist {
+  font-size: 25px;
+  padding: 1em;
+  display: flex;
+  
+}
+.cllist > a {
+  margin-left: auto;
+}
+.cltett {
+  display: flex;
+  justify-content: space-between;
+}
+.clbouton{
+  height: 50px;
+  width: 15%;
+  font-size: 20px;
+}
+.clinput{
+  width: 90%;
+  font-size: 25px;
+}
