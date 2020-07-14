@@ -2,9 +2,10 @@
   text-align: center;
   font-size: 25px;
 
-  margin:  10% auto;
+  margin-top: 5px;
+  margin-left: 15%;
   width: 70%;
-}  
+}
 
 .cltete {
   font-size: 25px;
@@ -16,7 +17,7 @@
   font-size: 25px;
   padding: 1em;
   display: flex;
-  
+  justify-content: space-between;
 }
 .cllist > a {
   margin-left: auto;
@@ -25,12 +26,19 @@
   display: flex;
   justify-content: space-between;
 }
-.clbouton{
+.clbouton {
   height: 50px;
   width: 15%;
   font-size: 20px;
 }
-.clinput{
+.clinput {
   width: 90%;
   font-size: 25px;
 }
+.editcl{
+  font-size: 25px;
+color: tomato;
+  border: 0px;
+  
+}
+
